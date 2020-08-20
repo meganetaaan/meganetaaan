@@ -1,0 +1,1 @@
+[![meganetaaan's github stats](https://github-readme-stats.vercel.app/api?username=meganetaaan&show_icons=true)](https://github.com/meganetaaan/meganetaaan)
