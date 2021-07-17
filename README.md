@@ -1,5 +1,11 @@
-　　　　　　　＼＼\ HELLO HELLO KONNICHIWA!! /／／
+<p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／</p>
 
-![stack-chan](https://github.com/meganetaaan/stack-chan/blob/main/docs/images/stackchan.gif)
+<p align="center">
+  <img width="495px" alt="stackchan" src="https://github.com/meganetaaan/stack-chan/blob/main/docs/images/stackchan.gif"/>
+</p>
 
-[![meganetaaan's github stats](https://github-readme-stats.vercel.app/api?username=meganetaaan&show_icons=true&count_private=true)](https://github.com/meganetaaan/meganetaaan)
+<p align="center">
+  <a href="https://github.com/meganetaaan/meganetaaan">
+    <img width="495px" alt="meganetaaan's github stats" src="https://github-readme-stats.vercel.app/api?username=meganetaaan&show_icons=true&count_private=true"/>
+  </a>
+</p>
