@@ -1,7 +1,9 @@
 <p align="center">＼＼\ HELLO HELLO KONNICHIWA!! /／／</p>
 
 <p align="center">
-  <img width="495px" alt="stackchan" src="https://github.com/meganetaaan/stack-chan/blob/main/docs/images/stackchan.gif"/>
+  <a href="https://github.com/meganetaaan/stack-chan">
+    <img width="495px" alt="stackchan" src="https://github.com/meganetaaan/stack-chan/blob/main/docs/images/stackchan.gif"/>
+  </a>
 </p>
 
 <p align="center">
